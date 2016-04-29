@@ -1,0 +1,7 @@
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\bin\Release\ImoocConsoleApp.exe.config
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\bin\Release\ImoocConsoleApp.exe
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\bin\Release\ImoocConsoleApp.pdb
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\bin\Release\Newtonsoft.Json.dll
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\obj\Release\ImoocConsoleApp.exe
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\obj\Release\ImoocConsoleApp.pdb
+E:\HEPW\MySpace\NET\HSolution\ImoocConsoleApp\obj\Release\ImoocConsoleApp.csprojResolveAssemblyReference.cache
